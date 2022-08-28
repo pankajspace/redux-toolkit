@@ -10,3 +10,5 @@
 - npm i @reduxjs/toolkit -S
 
 - npm i redux-logger -S
+
+- npm i axios -S
