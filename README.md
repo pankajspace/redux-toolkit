@@ -6,3 +6,5 @@
 - git branch -M main
 - git remote add origin https://github.com/pankajspace/redux-toolkit.git
 - git push -u origin main
+
+- npm i @reduxjs/toolkit -S
